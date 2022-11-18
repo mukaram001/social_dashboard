@@ -1,0 +1,21 @@
+.charts {
+  background-color: rgb(241, 244, 247);
+  padding: 6px 13px;
+  height: 280px;
+  border-radius: 5px;
+
+  box-shadow: 5px 5px 5px rgba(223, 225, 226, 0.692);
+}
+h4 {
+  color: #4f5050;
+  margin: 20px 0;
+}
+
+tspan {
+  font-size: 30px;
+}
+
+.recharts-surface {
+  height: 250px;
+  /* width: min-content !important; */
+}

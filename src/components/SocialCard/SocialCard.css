@@ -1,0 +1,61 @@
+.fb_card {
+    background-color: #3b5998;
+}
+
+.social_card {
+    color: #fff;
+    border-radius: 20px;
+    padding: 20px 30px;
+    transition: 0.4s all ease;
+    cursor: pointer;
+}
+
+.social_card:hover {
+    box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.342);
+}
+
+.icon_div {
+    background-color: #fff;
+    font-size: 35px;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    padding: 0px 10.5px;
+    margin-right: 15px;
+}
+
+.icon_div .fa-facebook-f {
+    color: #3b5998;
+}
+
+.card_count {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 0;
+    line-height: 30px;
+}
+
+.insta_card {
+    background-image: linear-gradient(to right, #8a3ab9, #bc2a8d);
+}
+
+.icon_div .fa-instagram {
+    color: #bc2a8d;
+}
+
+.youtube_card {
+    background-color: #cf0000;
+}
+
+.icon_div .fa-play {
+    color: #cf0000;
+    margin-left: 4px;
+}
+
+.twittwer_card {
+    background-color: #00acee;
+}
+
+.icon_div .fa-twitter {
+    color: #00acee;
+}
